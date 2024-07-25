@@ -1,0 +1,18 @@
+.add{
+border: 2px solid lightgrey;
+ color:slateblue;
+ width:300px;
+ height:45px;
+ font-size:15px;
+ border-radius:0;
+ background:white;
+ border-radius:5px;
+}
+.main{
+ position: relative;
+ border: 2px solid lightgrey;
+ width: 300px;
+ border-radius:5px;
+ padding:15px;
+ background: whitesmoke;
+}
